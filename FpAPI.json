@@ -1,0 +1,33 @@
+{
+    "Data":[
+        {
+            "Name":"Sentinel",
+            "Health": 500
+        },
+        {
+            "Name": "Deimos",
+            "Health": 350
+        },
+        {
+            "Name": "Adelaide",
+            "Health":400
+        },
+        {
+            "Name": "Grievestep",
+            "Health": 200
+        },
+        {
+            "Name": "Terrorfoot",
+            "Health": 300
+        },
+        {
+            "Name":"Tombwraith",
+            "Health": 400
+        },
+        {
+            "Name": "Ancient Horror",
+            "Health": 500
+        }
+        
+    ]
+}
